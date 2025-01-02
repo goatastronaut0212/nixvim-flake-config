@@ -16,6 +16,7 @@
     ./bufferline.nix
     ./fzf-lua.nix
     ./gitsigns.nix
+    ./lsp.nix
     ./lualine.nix
     ./neocord.nix
     ./nvim-tree.nix
