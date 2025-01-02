@@ -15,6 +15,7 @@
     # Plugins
     ./bufferline.nix
     ./fzf-lua.nix
+    ./gitsigns.nix
     ./lualine.nix
     ./neocord.nix
     ./nvim-tree.nix
