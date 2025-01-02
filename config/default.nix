@@ -8,6 +8,7 @@
 
   # Import all your configuration modules here
   imports = [
+    ./configlua.nix
     ./files.nix
     ./keymaps.nix
 
