@@ -25,11 +25,20 @@
     };
   };
 
+  globals = {
+    mapleader = " ";
+  };
+
   # Import all your configuration modules here
   imports = [
+    ./keymaps.nix
+
+    # Plugins
     ./bufferline.nix
+    ./fzf-lua.nix
     ./lualine.nix
     ./neocord.nix
-    ./neo-tree.nix
+    ./nvim-tree.nix
+    ./which-key.nix
   ];
 }
