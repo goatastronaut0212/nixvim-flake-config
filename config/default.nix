@@ -15,6 +15,7 @@
     # Plugins
     ./bufferline.nix
     ./cmp.nix
+    ./colorize.nix
     ./fzf-lua.nix
     ./gitsigns.nix
     ./lsp.nix
