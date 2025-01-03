@@ -21,5 +21,12 @@
         tabstop = 4;
       };
     };
+    "ftplugin/svelte.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 2;
+        tabstop = 2;
+      };
+    };
   };
 }
