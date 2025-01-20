@@ -1,5 +1,12 @@
 {
   files = {
+    "ftplugin/json.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 2;
+        tabstop = 2;
+      };
+    };
     "ftplugin/lua.lua" = {
       opts = {
         expandtab = true;
