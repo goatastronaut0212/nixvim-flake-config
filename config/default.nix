@@ -23,6 +23,7 @@
     ./neocord.nix
     ./nvim-tree.nix
     ./treesitter.nix
+    ./ts-autotag.nix
     ./which-key.nix
   ];
 }
