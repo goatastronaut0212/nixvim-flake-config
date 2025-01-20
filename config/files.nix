@@ -21,6 +21,20 @@
         tabstop = 4;
       };
     };
+    "ftplugin/typescript.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 2;
+        tabstop = 2;
+      };
+    };
+    "ftplugin/typescriptreact.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 2;
+        tabstop = 2;
+      };
+    };
     "ftplugin/svelte.lua" = {
       opts = {
         expandtab = true;
