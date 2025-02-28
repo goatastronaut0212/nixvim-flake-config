@@ -56,5 +56,12 @@
         tabstop = 2;
       };
     };
+    "ftplugin/yuck.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 2;
+        tabstop = 2;
+      };
+    };
   };
 }
