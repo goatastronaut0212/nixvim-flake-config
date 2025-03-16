@@ -28,6 +28,13 @@
         tabstop = 4;
       };
     };
+    "ftplugin/rust.lua" = {
+      opts = {
+        expandtab = true;
+        shiftwidth = 4;
+        tabstop = 4;
+      };
+    };
     "ftplugin/sql.lua" = {
       opts = {
         expandtab = true;
