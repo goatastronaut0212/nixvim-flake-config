@@ -12,6 +12,7 @@
           installCargo = false;
           installRustc = false;
         };
+        svelte.enable = true;
         ts_ls.enable = true;
       };
     };
